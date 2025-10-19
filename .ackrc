@@ -1,0 +1,7 @@
+--ignore-directory=is:node_modules
+--ignore-directory=is:vendor
+--type-set=sass:ext:scss,sass
+--type-set=markdown:ext:md,markdown
+--type-set=md:ext:md,markdown
+--type-set=blade:match:.blade.php
+--smart-case

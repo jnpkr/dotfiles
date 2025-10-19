@@ -1,0 +1,33 @@
+# Safe everywhere (minimal)
+.DS_Store
+Thumbs.db
+*~
+.nfs*
+*.swp
+*.swo
+*.sw?
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+
+# Common user caches (moderate)
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+Desktop.ini
+$RECYCLE.BIN/
+.cache/
+
+# Language noise
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
